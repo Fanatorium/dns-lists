@@ -1,11 +1,7 @@
 [Adblock Plus]
-! Title: Fanatorium's DNS Allowlist
-! Syntax: AdBlock
-!
 @@||discord.com^
 @@||discord.gg^
 @@||discordapp.com^
-@@||reddit.com^
 @@||redd.it^
 @@||reddit.com^
 @@||redditmedia.com^
