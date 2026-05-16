@@ -1,0 +1,7 @@
+[Adblock Plus]
+! Title: Fanatorium's DNS Blocklist
+! Syntax: AdBlock
+!
+||bilde.de^
+||welt.de^
+||alexa.amazon.de^
